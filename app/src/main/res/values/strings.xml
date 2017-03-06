@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScheduleDoctor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_longindoctor">Quản Lý Lịch Khám Bệnh</string>
+    <string name="logindoctor">Đăng Nhập</string>
+    <string name="quenmatkhau">Quên mật khẩu?</string>
+</resources>
